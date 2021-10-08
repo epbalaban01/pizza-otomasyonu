@@ -1,0 +1,199 @@
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\bin\Debug\ÖdevPizza.exe.config
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\bin\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\bin\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\bin\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.vbprojAssemblyReference.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.Admin.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.AdminPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.EskiSiparisler.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.Form1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıEkle.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıGuncelle.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıSil.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.Resources.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.GenerateResource.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.CoreCompileInputs.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.AdminSiparisGörme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.Odeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriKayit.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıBilgileri.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriBilgi.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\bin\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\bin\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.GecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.SiparisTakip.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriSiparisGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza\ÖdevPizza\obj\Debug\ÖdevPizza.Odemelerim.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\bin\Debug\ÖdevPizza.exe.config
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\bin\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\bin\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\bin\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\bin\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\bin\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.vbprojAssemblyReference.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.Admin.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.AdminPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.Form1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.GecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıBilgileri.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıEkle.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriBilgi.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriKayit.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriSiparisGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.Resources.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.Odeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.Odemelerim.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.SiparisTakip.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.GenerateResource.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.CoreCompileInputs.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.Hakkinda.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.AdminOdeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (2)\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriGecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\bin\Debug\ÖdevPizza.exe.config
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\bin\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\bin\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\bin\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\bin\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\bin\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.vbprojAssemblyReference.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.Admin.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.AdminOdeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.AdminPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.Form1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.GecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.Hakkinda.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıBilgileri.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıEkle.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriBilgi.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriGecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriKayit.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriSiparisGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.Resources.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.Odeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.Odemelerim.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.SiparisTakip.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.GenerateResource.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.CoreCompileInputs.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek\ÖdevPizza\obj\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.exe.config
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.vbprojAssemblyReference.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Admin.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.AdminOdeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.AdminPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Form1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.GecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Hakkinda.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıBilgileri.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıEkle.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriBilgi.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriGecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriKayit.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriSiparisGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Resources.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Odeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Odemelerim.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.SiparisTakip.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.GenerateResource.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.CoreCompileInputs.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (3) - çalışıyor yedek - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.exe.config
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\bin\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.vbprojAssemblyReference.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Admin.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.AdminOdeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.AdminPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Form1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.GecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Hakkinda.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıBilgileri.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıEkle.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriBilgi.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriGecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriKayit.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriSiparisGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Resources.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Odeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.Odemelerim.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.SiparisTakip.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.GenerateResource.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.CoreCompileInputs.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\ÖdevPizza - Kopya (7) - çalışıyor yedek - Kopya - Kopya - Kopya\ÖdevPizza\obj\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\bin\Debug\ÖdevPizza.exe.config
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\bin\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\bin\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\bin\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\bin\Debug\ÖdevPizza.pdb
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\bin\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.vbprojAssemblyReference.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.Admin.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.AdminOdeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.AdminPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.Form1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.GecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.Hakkinda.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıBilgileri.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıEkle.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.KullanıcıGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriBilgi.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriGecmisSiparis.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriKayit.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriPanel1.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.MusteriSiparisGoster.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.Resources.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.Odeme.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.Odemelerim.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.SiparisTakip.resources
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.GenerateResource.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.vbproj.CoreCompileInputs.cache
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.exe.manifest
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.application
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.exe
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.xml
+C:\Users\BALABAN\Desktop\2.SINIF UZAKTAN EĞİTİM\2.Dönem\Sistem Analizi Tasarımı\PROJE FİNAL SON RESİMLER\PizzaOtomasyonu-191550020-191550009\PizzaOtomasyonu-191550020-191550009\ÖdevPizza\obj\Debug\ÖdevPizza.pdb
