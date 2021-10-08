@@ -93,15 +93,16 @@ Müşteri kendi ekranından tıklamış olduğu sipariş göster kısmında bura
 
 <b><h2>Ödeme Ekranı</h2></b><br/>
 ![image](https://user-images.githubusercontent.com/42430554/136612388-086d42e9-b68a-41de-9bd8-aa32910a8857.png)
-Müşterinin sipariş ID sini girip daha önceki ödemelerine bakabildiği kısım.
+<center>Müşterinin sipariş ID sini girip daha önceki ödemelerine bakabildiği kısım.</center>
 
 ![image](https://user-images.githubusercontent.com/42430554/136612397-b2c6fa82-a816-4bfc-8a9c-ace4462b5c77.png)
-Müşteri ödemelerini veri tabanından okuyup forma yazdıran kod.
+<center>Müşteri ödemelerini veri tabanından okuyup forma yazdıran kod.</center>
 
 <b><h2>Bilgiler</h2></b><br/>
 ![10](https://user-images.githubusercontent.com/42430554/136612426-88d04898-b9d8-4f3a-b196-ed7f3573f891.jpg)
-Müşteri bilgiler ekranında sisteme yazarak kayıt olduğu bilgileri görebilir
+<center>Müşteri bilgiler ekranında sisteme yazarak kayıt olduğu bilgileri görebilir.</center>
 
 
 <hr/>
+<p/>
 Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun.
