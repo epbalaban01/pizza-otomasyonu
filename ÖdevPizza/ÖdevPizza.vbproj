@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB323628-A0C9-4BFA-B5F6-9F53AEA31FFA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ÖdevPizza.My.MyApplication</StartupObject>
+    <RootNamespace>ÖdevPizza</RootNamespace>
+    <AssemblyName>ÖdevPizza</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ÖdevPizza.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ÖdevPizza.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D663976A00A746EAF44B8313BC66E584BEBA3BB8</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ÖdevPizza_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logojpg.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.Designer.vb">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminOdeme.Designer.vb">
+      <DependentUpon>AdminOdeme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminOdeme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.Designer.vb">
+      <DependentUpon>AdminPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GecmisSiparis.Designer.vb">
+      <DependentUpon>GecmisSiparis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GecmisSiparis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hakkinda.Designer.vb">
+      <DependentUpon>Hakkinda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkinda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanicilar.vb" />
+    <Compile Include="KullanıcıBilgileri.Designer.vb">
+      <DependentUpon>KullanıcıBilgileri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıBilgileri.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanıcıEkle.Designer.vb">
+      <DependentUpon>KullanıcıEkle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıEkle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullanıcıGoster.Designer.vb">
+      <DependentUpon>KullanıcıGoster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KullanıcıGoster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriBilgi.Designer.vb">
+      <DependentUpon>MusteriBilgi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriBilgi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriGecmisSiparis.Designer.vb">
+      <DependentUpon>MusteriGecmisSiparis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriGecmisSiparis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriKayit.Designer.vb">
+      <DependentUpon>MusteriKayit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriKayit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriPanel.Designer.vb">
+      <DependentUpon>MusteriPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriPanel1.Designer.vb">
+      <DependentUpon>MusteriPanel1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriPanel1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriSiparisGoster.Designer.vb">
+      <DependentUpon>MusteriSiparisGoster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriSiparisGoster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Odeme.Designer.vb">
+      <DependentUpon>Odeme.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Odeme.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odemelerim.Designer.vb">
+      <DependentUpon>Odemelerim.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Odemelerim.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisTakip.Designer.vb">
+      <DependentUpon>SiparisTakip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SiparisTakip.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminOdeme.resx">
+      <DependentUpon>AdminOdeme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPanel.resx">
+      <DependentUpon>AdminPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GecmisSiparis.resx">
+      <DependentUpon>GecmisSiparis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hakkinda.resx">
+      <DependentUpon>Hakkinda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıBilgileri.resx">
+      <DependentUpon>KullanıcıBilgileri.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıEkle.resx">
+      <DependentUpon>KullanıcıEkle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullanıcıGoster.resx">
+      <DependentUpon>KullanıcıGoster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriBilgi.resx">
+      <DependentUpon>MusteriBilgi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriGecmisSiparis.resx">
+      <DependentUpon>MusteriGecmisSiparis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriKayit.resx">
+      <DependentUpon>MusteriKayit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriPanel.resx">
+      <DependentUpon>MusteriPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriPanel1.resx">
+      <DependentUpon>MusteriPanel1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriSiparisGoster.resx">
+      <DependentUpon>MusteriSiparisGoster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odeme.resx">
+      <DependentUpon>Odeme.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odemelerim.resx">
+      <DependentUpon>Odemelerim.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SiparisTakip.resx">
+      <DependentUpon>SiparisTakip.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dominos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\little caesars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizzabuls.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizzahut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizzalazza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sucuk sever.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizzaa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drink-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza-menu-3-1047816.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\batu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logojpg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayarlar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_userr.png" />
+    <Content Include="logojpg.ico" />
+    <None Include="Resources\ailemenü.jpg" />
+    <None Include="Resources\background1.jpg" />
+    <None Include="Resources\background.jpg" />
+    <Content Include="Resources\barbeküsoslupizza.png" />
+    <Content Include="Resources\bolmalzeme.png" />
+    <None Include="Resources\cash.png" />
+    <Content Include="Resources\cocacola-330ml.png" />
+    <Content Include="Resources\cocacola-pet.png" />
+    <Content Include="Resources\cıtırkarısık.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\delete_user.png" />
+    <Content Include="Resources\dopdoluextra.png" />
+    <None Include="Resources\ekle.png" />
+    <Content Include="Resources\ekmekarasıdürümoskola.png" />
+    <Content Include="Resources\fanta.png" />
+    <Content Include="Resources\fanta330.png" />
+    <None Include="Resources\fatura.png" />
+    <None Include="Resources\form1.png" />
+    <Content Include="Resources\fusetea.png" />
+    <Content Include="Resources\fusetea330.png" />
+    <None Include="Resources\gelir-gider.png" />
+    <None Include="Resources\global.png" />
+    <None Include="Resources\guncelle.png" />
+    <None Include="Resources\gelirr.png" />
+    <None Include="Resources\giderr.png" />
+    <Content Include="Resources\italinoa.png" />
+    <None Include="Resources\money.png" />
+    <None Include="Resources\musteri.png" />
+    <None Include="Resources\little caesarss.png" />
+    <Content Include="Resources\newyork.png" />
+    <None Include="Resources\odeme.png" />
+    <None Include="Resources\personelicon.png" />
+    <None Include="Resources\pizza.png" />
+    <None Include="Resources\pizza_logo.png" />
+    <None Include="Resources\pizzaguncel.png" />
+    <None Include="Resources\pizzasiparis.png" />
+    <None Include="Resources\rehber.png" />
+    <None Include="Resources\sil.png" />
+    <Content Include="Resources\sosyal.png" />
+    <Content Include="Resources\sprite.png" />
+    <Content Include="Resources\sprite330.png" />
+    <Content Include="Resources\suffle.png" />
+    <Content Include="Resources\süperos.png" />
+    <Content Include="Resources\sütasayran.png" />
+    <Content Include="Resources\sütasayran1litre.png" />
+    <Content Include="Resources\tostillasuffle.png" />
+    <None Include="Resources\updateee.png" />
+    <None Include="Resources\web.png" />
+    <None Include="Resources\web1.png" />
+    <Content Include="Resources\zulagamermenü.jpg" />
+    <Content Include="Resources\çıtırtavuk.png" />
+    <Content Include="Resources\şampiyonmenü.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

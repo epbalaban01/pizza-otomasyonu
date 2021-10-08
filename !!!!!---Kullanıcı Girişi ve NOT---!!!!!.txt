@@ -1,0 +1,26 @@
+
+!!! Hocam programý çalýþtýrmadan önce virüs programý kapatýrsanýz çok iyi olur. Yoksa programý siliyor. 
+
+-->Admin
+--------------------------
+- Kullanýcý Adý: balaban -
+- Þifre: 123456		 -
+--------------------------
+
+-->Admin
+--------------------------
+- Kullanýcý Adý: cagrý	 -
+- Þifre: 123456		 -
+--------------------------
+
+-->Üye
+--------------------------
+- Kullanýcý Adý: batu	 -
+- Þifre: 1234            -
+--------------------------
+
+-->Admin
+----------------------------------
+- Kullanýcý Adý: süleyman_hoca	 -
+- Þifre: süleyman03		 -
+----------------------------------
