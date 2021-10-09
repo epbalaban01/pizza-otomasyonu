@@ -103,6 +103,5 @@ Müşteri kendi ekranından tıklamış olduğu sipariş göster kısmında bura
 <center>Müşteri bilgiler ekranında sisteme yazarak kayıt olduğu bilgileri görebilir.</center>
 
 
-<hr/>
-<p/>
-Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun.
+
+> >Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun.
