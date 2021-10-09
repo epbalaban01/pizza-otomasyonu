@@ -20,22 +20,26 @@ Proje sisteme giriş yapan müşterilerin kolay, hızlı pratik ve güvenli bir 
 
 ## Pizza Otomasyonu Giriş Ekranı
 
-<img src="https://user-images.githubusercontent.com/42430554/136610534-00d8a07a-23d3-492b-b39d-dc858c951373.png" align="left">
+<img src="https://user-images.githubusercontent.com/42430554/136610534-00d8a07a-23d3-492b-b39d-dc858c951373.png" align="right">
 Programı çalıştırdığınızda karşınıza ilk olarak bu ekran gelecek. Bu ekranda Kayıt Ol kısmına tıklayıp istenilen bilgileri girerek bir kullanıcı kaydı oluşturabilir, mevcut bir kaydınız varsa da daha önceden oluşturmuş olduğunuz kullanıcı adı ve şifre kısmıyla giriş yapabilirsiniz.
 
-  
-
 <img align="center" src="https://user-images.githubusercontent.com/42430554/136610583-29747aa4-58b5-4e43-90f2-91edf2bd5d86.png">
-<p align="center">Kullanıcı adminse onu admin ekranına yönlendiren kod.</p><br/>
+<p align="center"> 
+  Kullanıcı adminse onu admin ekranına yönlendiren kod.
+</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/42430554/136610603-70d547a1-6377-499e-b06e-2674e5a08c60.png" align="center" ></p><br/>
-<p align="center">Kullanıcı normal üyeyse onu müşteri ekranına yönlendiren kod.</p>
+<p align="center">
+  Kullanıcı normal üyeyse onu müşteri ekranına yönlendiren kod.
+</p><br/>
+
 
 ## Müşteri Ekranı
-<p>
-<img src="https://user-images.githubusercontent.com/42430554/136611924-13754391-c8c6-411f-a323-ecc1170ed778.jpg" align="left" >Müşteri giriş yaptıktan sonra bu ekrana yönlendirilebilir ve buradan sipariş verme ekranına bilgiler ekranına geçmiş siparişler ve ödemeler kısmıan göz atabilir.
-  </p>
+
+<img src="https://user-images.githubusercontent.com/42430554/136611924-13754391-c8c6-411f-a323-ecc1170ed778.jpg" align="left" >
+Müşteri giriş yaptıktan sonra bu ekrana yönlendirilebilir ve buradan sipariş verme ekranına bilgiler ekranına geçmiş siparişler ve ödemeler kısmıan göz atabilir.
+
 
 
 ## Admin Paneli
