@@ -8,15 +8,15 @@ Proje sisteme giriş yapan müşterilerin kolay, hızlı pratik ve güvenli bir 
 
 <b><h2>Projenin Özellikleri</h2></b><br/> 
 
-	Müşteri, admin olarak kullanıcıların bulunması.
-	Gelişmiş, basit, kolay ve hızlı kullanılabilmesi.
-	Toplam ücreti görüntüleme.
-	İsteğine göre pizza yapılandırma.(Boy ve malzeme olarak)
-	Otomatik olarak indirim yapma.
-	Sipariş özeti bulunması.
-	Eklenen ürünlerin görüntülenebilmesi (sepet özelliği).
-	Nakit ve kredi kartı olarak ödeme seçenekleri.
-	Siparişi iptal etme, yeni sipariş oluşturma.
+* Müşteri, admin olarak kullanıcıların bulunması.
+* Gelişmiş, basit, kolay ve hızlı kullanılabilmesi.
+* Toplam ücreti görüntüleme.
+* İsteğine göre pizza yapılandırma.(Boy ve malzeme olarak)
+* Otomatik olarak indirim yapma.
+* Sipariş özeti bulunması.
+* Eklenen ürünlerin görüntülenebilmesi (sepet özelliği).
+* Nakit ve kredi kartı olarak ödeme seçenekleri.
+* Siparişi iptal etme, yeni sipariş oluşturma.
 
 <b><h2>Pizza Otomasyonu Giriş Ekranı</h2></b><br/>
 ![image](https://user-images.githubusercontent.com/42430554/136610534-00d8a07a-23d3-492b-b39d-dc858c951373.png)
