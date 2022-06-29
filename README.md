@@ -20,7 +20,7 @@ Proje sisteme giriş yapan müşterilerin kolay, hızlı pratik ve güvenli bir 
 
 ## Pizza Otomasyonu Giriş Ekranı
 <p align="center">
-<img src="https://user-images.githubusercontent.com/42430554/136610534-00d8a07a-23d3-492b-b39d-dc858c951373.png"></p>
+<img src="https://user-images.githubusercontent.com/42430554/176411573-054a274f-bb70-4e6a-8ff7-0d78db97fd07.png"></p>
 <p align="center"> 
   Programı çalıştırdığınızda karşınıza ilk olarak bu ekran gelecek. Bu ekranda Kayıt Ol kısmına tıklayıp istenilen bilgileri girerek bir kullanıcı kaydı oluşturabilir, mevcut bir kaydınız varsa da daha önceden oluşturmuş olduğunuz kullanıcı adı ve şifre kısmıyla giriş yapabilirsiniz.
 </p>
