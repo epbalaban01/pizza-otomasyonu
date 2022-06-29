@@ -87,17 +87,11 @@ Kullanıcıların bilgilerini güncellemek, düzeltmek, adına göre arama yapma
 Şirketin gelirleri ve giderleri siparişleri kayıtlı olan kullanıcıları ve müşterilere yapılan indirimleri, menülerden içeceklerden ve pizzalardan kazanılan toplam paraları listeleyen ekran.
 </p> 
 
-|   |   |
-|---|---|
-<p align="center"> 
-|<img src="https://user-images.githubusercontent.com/42430554/136612122-674e2002-3bfe-4d56-964f-2f85f5569b2e.png"></p>|
+<p align="center">
+<img src="https://user-images.githubusercontent.com/42430554/136612122-674e2002-3bfe-4d56-964f-2f85f5569b2e.png"></p>
 <br/>
 <p align="center"> 
-|<img src="https://user-images.githubusercontent.com/42430554/136612129-20ce5a83-0e46-4162-902c-adb9faa3b141.png"></p>|
-
-<b>Ekran Görüntüleri</b>
-
-
+<img src="https://user-images.githubusercontent.com/42430554/136612129-20ce5a83-0e46-4162-902c-adb9faa3b141.png"></p>
 
 ## Geçmiş Sipariş
 <p align="center"> 
