@@ -172,5 +172,5 @@ Müşteri kendi ekranından tıklamış olduğu sipariş göster kısmında bura
 
 <hr/>
 
-> Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun.
+> Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun..
 
