@@ -1,5 +1,7 @@
 # Pizza Otomasyonu
 
+<p align="center"><img src="https://socialify.git.ci/epbalaban01/Pizza-Otomasyonu/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+
 ## Raporun İçeriği
 Projenin tamamının ve her kısmının ekran görüntüleri ve kodlarıyla anlatıldığı, projemizi tam olarak tanımlayan bir rapordur.
 
